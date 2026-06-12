@@ -141,3 +141,21 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Java / Maven / IDE ignores
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+.idea/
+*.iml
+*.iws
+.settings/
+.classpath
+.project
+bin/
+out/
+target/
+.DS_Store
+
